@@ -1,26 +1,26 @@
 const config = {
   "meta": {
-    "pageTitle": "Win a $500 Parent Escape - Spa Weekend Giveaway",
+    "pageTitle": "Win a $500 Parent Escape Spa Weekend – Free Entry",
     "navBrandLogoText": "Tom Storey",
     "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>$500 Parent Escape</span> for a Relaxing Spa Weekend!",
-    "heroSubheadline": "Parents, take a break. Enjoy calm, spa time, and real rest. $500 value. Limited-time entry open now in June 2025.",
-    "heroBackgroundImageUrl": "",
-    "promotionDates": "Enter in June 2025 — entries close soon. Winner announced by email and on Instagram @thestoreyteam.",
-    "endDate": "2025-06-30T23:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>$500 Parent Escape</span> to a Relaxing <span class='highlight'>Spa Weekend</span>!",
+    "heroSubheadline": "You do so much. Take a break. Enjoy calm, care, and quiet. Local to East Toronto. $500 value. Entry ends November 13, 2025.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/v0t9se16rxrma0cssts83dma4w.jpg",
+    "promotionDates": "Enter October 23 to November 13, 2025 — winner announced November 15, 2025!",
+    "endDate": "2025-11-14T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter to Win Now!",
+    "entryFormCtaText": "Enter My Name Now!",
     "name": "Parent Escape Giveaway",
-    "successModalHeaderText": "You're In the Running!",
-    "successModalMainMessage": "Your entry for the <strong>Parent Escape Giveaway</strong> is in! We'll draw the winner after entries close and notify them by email.",
-    "successModalEmailPrompt": "Watch your email and follow @thestoreyteam on Instagram for updates and the winner announcement."
+    "successModalHeaderText": "You’re In the Running!",
+    "successModalMainMessage": "Your entry for the <strong>Parent Escape Spa Weekend</strong> is in. We’ll draw the winner on November 15, 2025 and email them. Good luck!",
+    "successModalEmailPrompt": "Watch your email on November 15—check your inbox and spam."
   },
   "settings": {
     "confettiColors": [
-      "#2E8B57",
-      "#C0E8E0",
+      "#0055A4",
+      "#003366",
       "#FFFFFF"
     ],
     "showCountdownInHero": true,
@@ -36,55 +36,55 @@ const config = {
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Parent Escape Giveaway</strong> is in. We will draw the winner after entries close and email them. Follow <strong>@thestoreyteam</strong> on Instagram for updates. Good luck!",
+    "mainMessage": "Your entry for the <strong>Parent Escape Spa Weekend</strong> is in. We will draw the winner on November 15, 2025 and email them. Good luck! Follow us on Instagram for updates: <strong>@thestoreyteam</strong>.",
     "socialPromptText": "Follow @thestoreyteam on Instagram for updates"
   },
   "prize": {
     "images": [
       {
-        "src": "",
-        "alt": "Couple relaxing at a spa with soft robes"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/js5arz4981rma0cssts89c89qw.jpg",
+        "alt": "Calm spa room with soft light and fresh towels"
       },
       {
-        "src": "",
-        "alt": "Calm spa room with candles and towels"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/402ebbq6d9rm80cssts8ptqqdr.jpg",
+        "alt": "Parent couple relaxing in robes at a spa lounge"
       },
       {
-        "src": "",
-        "alt": "Parents enjoying a quiet weekend getaway"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/qchrrza7hdrme0csstss0k16fw.jpg",
+        "alt": "Massage stones and candles for a peaceful spa day"
       },
       {
-        "src": "",
-        "alt": "Massage and self-care items in a serene spa"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/nc1dwr5845rmc0csstsv5h2pjc.jpg",
+        "alt": "Close-up of hands holding a spa gift card"
       }
     ],
     "includedItems": [
       {
         "icon": "fas fa-spa",
-        "text": "Up to $500 toward a spa day or relaxing escape"
+        "text": "Spa gift card(s) worth $500 to a top Toronto spa"
       },
       {
-        "icon": "fas fa-bed",
-        "text": "Plan a quiet night away or a pamper day"
+        "icon": "fas fa-list",
+        "text": "You choose the services you love"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Unplug, rest, and recharge"
-      },
-      {
-        "icon": "fas fa-child",
-        "text": "Made for busy parents with young kids"
+        "icon": "fas fa-calendar-check",
+        "text": "Pick a date that works for you"
       },
       {
         "icon": "fas fa-map-marker-alt",
-        "text": "Perfect for East End Toronto parents"
+        "text": "Great options near East End Toronto"
+      },
+      {
+        "icon": "fas fa-heart",
+        "text": "Perfect reset for busy moms and dads"
       }
     ],
-    "name": "Parent Escape Spa Weekend Package",
+    "name": "Parent Escape Spa Weekend",
     "value": "$500 Value",
-    "description": "Picture this: peace and quiet. No dishes. No mess. Just you, soft robes, and a deep breath. Use this $500 Parent Escape toward a spa day or a simple, relaxing getaway. Treat your body. Clear your mind. Come back recharged for your little one.",
+    "description": "Picture this: no dishes, no mess, no noise. Just soft lights, warm robes, and deep rest. You pick the day. You pick the treatments. Use the gift card for massage, facial, or time in the spa lounge. Breathe in. Breathe out. Come back home refreshed.",
     "limitedTimeOfferText": "Limited Fall Giveaway — Ends Soon!",
-    "ctaButtonText": "I Want This Escape!"
+    "ctaButtonText": "I Want This Break!"
   },
   "howToEnter": {
     "steps": [
@@ -95,96 +95,94 @@ const config = {
       },
       {
         "icon": "fas fa-check-circle",
-        "title": "Answer Quick Questions",
-        "description": "Answer a few simple, fun questions for parents."
-      },
-      {
-        "icon": "fas fa-envelope-open-text",
-        "title": "Watch Your Inbox",
-        "description": "We will email the winner and share on Instagram."
+        "title": "Answer 4 Quick Questions",
+        "description": "Tell us about your move plans in East Toronto."
       },
       {
         "icon": "fas fa-trophy",
         "title": "You're Entered!",
-        "description": "That’s it. Sit back and relax."
+        "description": "We’ll randomly pick the winner on November 15, 2025."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "30-second entry"
+        "text": "Fast 30-second entry"
       },
       {
         "icon": "fas fa-gift",
         "text": "Free to enter"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Built for busy parents"
+        "icon": "fas fa-users",
+        "text": "Made for busy parents"
       },
       {
         "icon": "fas fa-random",
-        "text": "Fair random draw"
+        "text": "Fair, random draw"
       },
       {
-        "icon": "fas fa-shield-alt",
-        "text": "Secure and private"
+        "icon": "fas fa-envelope-open-text",
+        "text": "Winner emailed on Nov 15"
+      },
+      {
+        "icon": "fas fa-map",
+        "text": "Focused on East End Toronto"
       }
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Must be 18+ and an Ontario resident. No purchase necessary.",
+    "finePrintText": "Please read before entering. Must be 18+ and live in Ontario. One entry per person. We respect your privacy. We use your info for this giveaway and helpful real estate tips. You can opt out anytime.",
     "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
-        "a": "You must be 18+ and live in Ontario. This is great for East End Toronto parents."
+        "a": "You must be 18+ and live in Ontario. One entry per person."
       },
       {
-        "q": "When does it end?",
-        "a": "Entries start in June 2025 and close soon. Follow @thestoreyteam for the final deadline."
+        "q": "Do I need to be a client?",
+        "a": "No. This is a free community giveaway from The Storey Team."
       },
       {
-        "q": "What is the prize?",
-        "a": "A $500 Parent Escape you can use toward a spa day or a relaxing getaway."
+        "q": "What exactly is the prize?",
+        "a": "Spa gift card(s) worth $500 to a top Toronto spa. The winner can choose services they love."
       },
       {
-        "q": "Do I need to buy anything?",
-        "a": "No. No purchase is needed to enter or win."
+        "q": "When is the draw?",
+        "a": "We announce the winner on November 15, 2025 by email."
       },
       {
-        "q": "Do I have to be a client?",
-        "a": "No. This is open to the community."
+        "q": "Is this sponsored by a spa or social media?",
+        "a": "No. This giveaway is not sponsored by any spa, Facebook, or Instagram."
       },
       {
-        "q": "How will I know if I won?",
-        "a": "We will email the winner and post on Instagram. Please check your inbox and spam."
+        "q": "How many times can I enter?",
+        "a": "One entry per person to keep it fair."
       }
     ],
     "tips": [
       "Double-check your email before you submit",
-      "Add tom@storeyteam.ca to your contacts",
       "Follow @thestoreyteam on Instagram for updates",
-      "Answer the quick questions so we can serve local parents better",
-      "Share with a parent who needs a break"
+      "Share this with a tired parent friend",
+      "Answer the quick questions so we can serve local families better"
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Draw",
-      "text": "We pick the winner at random. Every valid entry has the same chance. No tricks. No favorites."
+      "title": "Fair and Random Winner Selection",
+      "text": "We use a certified random number tool. Every valid entry has the same chance to win. No tricks. No bias."
     },
     "importantNotice": {
-      "title": "Winner Notification",
-      "text": "We will contact the winner by email. We will also post on Instagram at @thestoreyteam. Check your inbox and spam."
+      "title": "Watch Your Email",
+      "text": "We contact the winner by email on November 15, 2025. Check your inbox and spam."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-948.netlify.app",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-948.netlify.app&text=Win%20a%20%24500%20Parent%20Escape%20-%20Spa%20Weekend%20Giveaway"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-948.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-948.netlify.app%2Fadmin&text=Win%20a%20%24500%20Parent%20Escape%20Spa%20Weekend%20%E2%80%93%20Free%20Entry"
     },
-    "subtitle": "Enter your details for a chance to win a $500 Parent Escape!",
-    "entryCountText": "Local parents are entering now. Don’t miss your shot!",
-    "socialSharePrompt": "Share this with a parent who needs a break:"
+    "subtitle": "Enter your details for a chance to win this $500 Parent Escape Spa Weekend!",
+    "entryCountText": "Parents across East Toronto are entering now. Don’t miss out.",
+    "socialSharePrompt": "Know a tired parent? Share this with them:"
   },
   "modalQuestions": [
     {
@@ -265,22 +263,22 @@ const config = {
       "phone": "416-670-2432",
       "email": "tom@storeyteam.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Tom Storey. It is not sponsored by or affiliated with any spa, Instagram, or Facebook. Promotion begins October 23, 2025. Entry close date and draw date will be announced on Instagram @thestoreyteam. Winner will be selected at random from all eligible entries. Must be 18+ and an Ontario resident to enter. No purchase necessary.",
+    "footerDisclaimer": "This giveaway is sponsored by The Storey Team (Tom Storey). Not sponsored or endorsed by any spa, Facebook, or Instagram. Contest ends November 13, 2025 at 11:59 PM ET. Winner will be selected at random from eligible Ontario entries. Must be 18+ to enter. One entry per person.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Brokerage Logo",
-    "organizerName": "Tom Storey",
-    "brokerageName": "",
-    "address": "",
+    "secondaryLogoAlt": "",
+    "organizerName": "The Storey Team | Tom Storey",
+    "brokerageName": "The Storey Team",
+    "address": "East End Toronto",
     "email": "tom@storeyteam.ca",
     "phone": "416-670-2432",
-    "copyrightOwner": "Tom Storey"
+    "copyrightOwner": "The Storey Team"
   },
   "deploymentInfo": {
     "repoName": "Giveaway-948",
     "repoUrl": "https://github.com/arslvn93/Giveaway-948",
     "netlifyUrl": "http://Giveaway-948.netlify.app",
-    "netlifyId": "1073743322",
+    "netlifyId": "",
     "tag": "Parent Escape Giveaway"
   }
 };
