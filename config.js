@@ -1,176 +1,194 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win a $500 Parent Escape - Spa Weekend Giveaway",
+    "navBrandLogoText": "Tom Storey",
+    "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:59.000Z",
+    "heroHeadline": "Win a <span class='highlight'>$500 Parent Escape</span> for a Relaxing Spa Weekend!",
+    "heroSubheadline": "Parents, take a break. Enjoy calm, spa time, and real rest. $500 value. Limited-time entry open now in June 2025.",
+    "heroBackgroundImageUrl": "",
+    "promotionDates": "Enter in June 2025 — entries close soon. Winner announced by email and on Instagram @thestoreyteam.",
+    "endDate": "2025-06-30T23:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter to Win Now!",
+    "name": "Parent Escape Giveaway",
+    "successModalHeaderText": "You're In the Running!",
+    "successModalMainMessage": "Your entry for the <strong>Parent Escape Giveaway</strong> is in! We'll draw the winner after entries close and notify them by email.",
+    "successModalEmailPrompt": "Watch your email and follow @thestoreyteam on Instagram for updates and the winner announcement."
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
+      "#2E8B57",
+      "#C0E8E0",
       "#FFFFFF"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "/.netlify/functions/admin-update",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
     "followUpBossEmail": ""
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Parent Escape Giveaway</strong> is in. We will draw the winner after entries close and email them. Follow <strong>@thestoreyteam</strong> on Instagram for updates. Good luck!",
+    "socialPromptText": "Follow @thestoreyteam on Instagram for updates"
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "",
+        "alt": "Couple relaxing at a spa with soft robes"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "",
+        "alt": "Calm spa room with candles and towels"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "",
+        "alt": "Parents enjoying a quiet weekend getaway"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "",
+        "alt": "Massage and self-care items in a serene spa"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-spa",
+        "text": "Up to $500 toward a spa day or relaxing escape"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-bed",
+        "text": "Plan a quiet night away or a pamper day"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-heart",
+        "text": "Unplug, rest, and recharge"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-child",
+        "text": "Made for busy parents with young kids"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Perfect for East End Toronto parents"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Parent Escape Spa Weekend Package",
+    "value": "$500 Value",
+    "description": "Picture this: peace and quiet. No dishes. No mess. Just you, soft robes, and a deep breath. Use this $500 Parent Escape toward a spa day or a simple, relaxing getaway. Treat your body. Clear your mind. Come back recharged for your little one.",
+    "limitedTimeOfferText": "Limited Fall Giveaway — Ends Soon!",
+    "ctaButtonText": "I Want This Escape!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
         "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "description": "Add your name and email. It takes 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-check-circle",
+        "title": "Answer Quick Questions",
+        "description": "Answer a few simple, fun questions for parents."
+      },
+      {
+        "icon": "fas fa-envelope-open-text",
+        "title": "Watch Your Inbox",
+        "description": "We will email the winner and share on Instagram."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You're Entered!",
+        "description": "That’s it. Sit back and relax."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "30-second entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-user-friends",
+        "text": "Built for busy parents"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "icon": "fas fa-random",
+        "text": "Fair random draw"
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "text": "Secure and private"
       }
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "finePrintText": "Please read the fine print before entering. Must be 18+ and an Ontario resident. No purchase necessary.",
     "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "You must be 18+ and live in Ontario. This is great for East End Toronto parents."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "When does it end?",
+        "a": "Entries start in June 2025 and close soon. Follow @thestoreyteam for the final deadline."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "What is the prize?",
+        "a": "A $500 Parent Escape you can use toward a spa day or a relaxing getaway."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Do I need to buy anything?",
+        "a": "No. No purchase is needed to enter or win."
+      },
+      {
+        "q": "Do I have to be a client?",
+        "a": "No. This is open to the community."
+      },
+      {
+        "q": "How will I know if I won?",
+        "a": "We will email the winner and post on Instagram. Please check your inbox and spam."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double-check your email before you submit",
+      "Add tom@storeyteam.ca to your contacts",
+      "Follow @thestoreyteam on Instagram for updates",
+      "Answer the quick questions so we can serve local parents better",
+      "Share with a parent who needs a break"
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Draw",
+      "text": "We pick the winner at random. Every valid entry has the same chance. No tricks. No favorites."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Notification",
+      "text": "We will contact the winner by email. We will also post on Instagram at @thestoreyteam. Check your inbox and spam."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-948.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-948.netlify.app&text=Win%20a%20%24500%20Parent%20Escape%20-%20Spa%20Weekend%20Giveaway"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your details for a chance to win a $500 Parent Escape!",
+    "entryCountText": "Local parents are entering now. Don’t miss your shot!",
+    "socialSharePrompt": "Share this with a parent who needs a break:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -192,7 +210,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -200,8 +218,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -214,7 +232,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -238,31 +256,31 @@ const config = {
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "",
+      "instagram": "https://instagram.com/thestoreyteam"
     },
     "agentContact": {
-      "name": "Julian Kashani",
+      "name": "Tom Storey",
       "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "phone": "416-670-2432",
+      "email": "tom@storeyteam.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is sponsored by Tom Storey. It is not sponsored by or affiliated with any spa, Instagram, or Facebook. Promotion begins October 23, 2025. Entry close date and draw date will be announced on Instagram @thestoreyteam. Winner will be selected at random from all eligible entries. Must be 18+ and an Ontario resident to enter. No purchase necessary.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "secondaryLogoAlt": "Brokerage Logo",
+    "organizerName": "Tom Storey",
+    "brokerageName": "",
+    "address": "",
+    "email": "tom@storeyteam.ca",
+    "phone": "416-670-2432",
+    "copyrightOwner": "Tom Storey"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
-    "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "repoName": "Giveaway-948",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-948",
+    "netlifyUrl": "http://Giveaway-948.netlify.app",
+    "netlifyId": "1073743322",
+    "tag": "Parent Escape Giveaway"
   }
 };
