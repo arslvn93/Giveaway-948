@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$500 Parent Escape</span> to a Relaxing <span class='highlight'>Spa Weekend</span>!",
-    "heroSubheadline": "You do so much. Take a break. Enjoy calm, care, and quiet. Local to East Toronto. $500 value. Entry ends November 13, 2025.",
+    "heroSubheadline": "You do so much. Take a break. Enjoy calm, care, and quiet. Local to East Toronto. $500 value. ",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/v0t9se16rxrma0cssts83dma4w.jpg",
     "promotionDates": "Enter October 23 to November 13, 2025 — winner announced November 15, 2025!",
     "endDate": "2025-11-14T04:59:00.000Z",
@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Parent Escape Spa Weekend</strong> is in. We will draw the winner on November 15, 2025 and email them. Good luck! Follow us on Instagram for updates: <strong>@thestoreyteam</strong>.",
-    "socialPromptText": "Follow @thestoreyteam on Instagram for updates"
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -132,8 +126,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read before entering. Must be 18+ and live in Ontario. One entry per person. We respect your privacy. We use your info for this giveaway and helpful real estate tips. You can opt out anytime.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -166,6 +158,8 @@ const config = {
       "Share this with a tired parent friend",
       "Answer the quick questions so we can serve local families better"
     ],
+    "finePrintText": "Please read before entering. Must be 18+ and live in Ontario. One entry per person. We respect your privacy. We use your info for this giveaway and helpful real estate tips. You can opt out anytime.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a certified random number tool. Every valid entry has the same chance to win. No tricks. No bias."
@@ -186,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1760366862818_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -208,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1760366862818_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -230,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1760366862818_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -252,9 +246,21 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Parent Escape Spa Weekend</strong> is in. We will draw the winner on November 15, 2025 and email them. Good luck! Follow us on Instagram for updates: <strong>@thestoreyteam</strong>.",
+    "socialPromptText": "Follow @thestoreyteam on Instagram for updates"
+  },
   "footerContact": {
     "social": {
-      "facebook": "",
+      "facebook": "https://www.facebook.com/thestoreyteam/",
       "instagram": "https://instagram.com/thestoreyteam"
     },
     "agentContact": {
@@ -264,9 +270,9 @@ const config = {
       "email": "tom@storeyteam.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by The Storey Team (Tom Storey). Not sponsored or endorsed by any spa, Facebook, or Instagram. Contest ends November 13, 2025 at 11:59 PM ET. Winner will be selected at random from eligible Ontario entries. Must be 18+ to enter. One entry per person.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "",
+    "organizerLogoUrl": "https://iili.io/KOt90G9.webp",
+    "secondaryLogoUrl": "https://iili.io/KOt914e.webp",
+    "secondaryLogoAlt": "https://iili.io/KOt914e.webp",
     "organizerName": "The Storey Team | Tom Storey",
     "brokerageName": "The Storey Team",
     "address": "East End Toronto",
