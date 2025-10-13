@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win a $500 Parent Escape Spa Weekend – Free Entry",
     "navBrandLogoText": "Tom Storey",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://www.royallepage.ca/en/realestate/privacy-policy/"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$500 Parent Escape</span> to a Relaxing <span class='highlight'>Spa Weekend</span>!",
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760367648591_0",
+      "id": "q_auto_1760368148450_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760367648591_1",
+      "id": "q_auto_1760368148450_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760367648591_2",
+      "id": "q_auto_1760368148450_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
