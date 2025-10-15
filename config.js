@@ -83,19 +83,19 @@ const config = {
   "howToEnter": {
     "steps": [
       {
+        "icon": "fa-brands fa-square-instagram",
+        "title": "Follow My Instagram",
+        "description": "follow @thestoreyteam"
+      },
+      {
         "icon": "fas fa-edit",
         "title": "Fill Out the Form",
-        "description": "Add your name and email. It takes 30 seconds."
+        "description": "Add your name and email. It takes under 30 seconds."
       },
       {
         "icon": "fas fa-check-circle",
-        "title": "Answer 4 Quick Questions",
-        "description": "Tell us about your move plans in East Toronto."
-      },
-      {
-        "icon": "fas fa-trophy",
-        "title": "You're Entered!",
-        "description": "We’ll randomly pick the winner on November 15, 2025."
+        "title": "Answer Quick Questions",
+        "description": "Tell us about you."
       }
     ],
     "highlights": [
@@ -117,7 +117,7 @@ const config = {
       },
       {
         "icon": "fas fa-envelope-open-text",
-        "text": "Winner emailed on Nov 15"
+        "text": "Winner emailed on Nov 11"
       },
       {
         "icon": "fas fa-map",
@@ -141,7 +141,7 @@ const config = {
       },
       {
         "q": "When is the draw?",
-        "a": "We announce the winner on November 15, 2025 by email."
+        "a": "We announce the winner on November 11, 2025 by email."
       },
       {
         "q": "Is this sponsored by a spa or social media?",
@@ -166,7 +166,7 @@ const config = {
     },
     "importantNotice": {
       "title": "Watch Your Email",
-      "text": "We contact the winner by email on November 15, 2025. Check your inbox and spam."
+      "text": "We contact the winner by email on November 11, 2025. Check your inbox and spam."
     }
   },
   "entryForm": {
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760543536502_0",
+      "id": "q_auto_1760543717818_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760543536502_1",
+      "id": "q_auto_1760543717818_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760543536502_2",
+      "id": "q_auto_1760543717818_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
