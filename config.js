@@ -8,8 +8,8 @@ const config = {
     "heroHeadline": "Win a <span class='highlight'>$500 Parent Escape</span> to a Relaxing <span class='highlight'>Spa Weekend</span>!",
     "heroSubheadline": "You do so much. Take a break. Enjoy calm, care, and quiet. Local to East Toronto. $500 value. ",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/v0t9se16rxrma0cssts83dma4w.jpg",
-    "promotionDates": "Enter October 23 to November 13, 2025. Winner announced November 15, 2025!",
-    "endDate": "2025-11-14T04:59:00.000Z",
+    "promotionDates": "Enter October 23 to November 10, 2025. Winner announced November 11, 2025!",
+    "endDate": "2025-11-10T13:00:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Parent Escape Giveaway",
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760368150066_0",
+      "id": "q_auto_1760543525371_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760368150066_1",
+      "id": "q_auto_1760543525371_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760368150066_2",
+      "id": "q_auto_1760543525371_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
